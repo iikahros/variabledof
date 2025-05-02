@@ -1,5 +1,5 @@
 
-Robot Arm Simulation GUI
+Variable DoF Kinematics Simulator
 ========================
 
 This is a Python-based GUI application that simulates a configurable multi-DOF robotic arm using Tkinter and Matplotlib. 
